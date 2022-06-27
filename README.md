@@ -3,6 +3,7 @@
 
 # 
 * ✔ How to Use : ```Run py file and set setting in config.yml```
+* ✔ How to Use : ```add Folder To path (name of folder : licexp)```
 
 # 
 * 📫 Tsunami Project : https://discord.gg/sjPkrHu7rP
