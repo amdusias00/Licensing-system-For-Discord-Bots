@@ -1,0 +1,25 @@
+
+TOKEN: ''
+
+
+Prefix: ''
+
+RoleName: ''
+webhook: ''
+
+SerialFile: 'serial.txt'
+
+SerialFile6month: 'serial6month.txt'
+SerialFile3month: 'serial3month.txt'
+SerialFile1month: 'serial1month.txt'
+
+ValidTitle: 'User upgraded'
+ValidName: 'Thanks for your purchase'
+ValidValue: 'ACCESS For ONE year'
+ValidValue6: 'ACCESS For 6  month'
+ValidValue3: 'ACCESS For 3 month'
+ValidValue1: 'ACCESS For 1 month'
+ValidFooter: 'License Bot by EBLIS'
+
+InvalidTitle: 'Invalid Key !'
+InvalidFooter: 'License Bot by EBLIS'
