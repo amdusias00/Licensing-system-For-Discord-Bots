@@ -6,7 +6,7 @@
 * ✔ How to Use : ```add Folder To path (name of folder : licexp)```
 
 # 
-* 📫 Tsunami Project : https://discord.gg/sjPkrHu7rP
+
 
 # 
 * 💫 My Discord Username : ```♰ | 𝙴𝙱𝙻𝙸𝚂#8243```
